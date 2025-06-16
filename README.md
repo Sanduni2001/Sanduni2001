@@ -1,5 +1,5 @@
 # 💫 About Me:
-### 👋 Hi there, I'm Sanduni Tharushika!
+### 👋 Hi there, I'm Sanduni Rathnayake!
 
 🎓 I'm an undergraduate student with a passion for **UI/UX design** and **frontend development**.  
 💻 I enjoy turning ideas into functional, user-friendly interfaces using:
