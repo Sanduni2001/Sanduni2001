@@ -1,5 +1,32 @@
 # 💫 About Me:
-👋 Hi there!<br><br>👨‍💻 I’m currently working on  <br>- A sensor-based IoT system (“Green Grass”) using ESP32 microcontrollers, DHT22 & soil-moisture sensors, all streaming data into Firebase in real time.<br><br>👯 I’m looking to collaborate on  <br>- Open-source IoT dashboards or data-visualization tools built with the MERN stack.  <br>- Cross-platform sensor-network libraries.<br><br>🤝 I’m looking for help with  <br>- Scaling Firebase rules & security for multi-node deployments.  <br>- Best practices in sensor-data aggregation and alerting.<br><br>🌱 I’m currently learning  <br>- Advanced Node.js patterns for real-time APIs.  <br>- Deploying React apps with serverless backends.<br><br>💬 Ask me about  <br>- Building ESP32 firmware in PlatformIO or Arduino IDE.  <br>- Integrating hardware sensors with cloud services.  <br>- Any things Sri Lankan art review (“Green Grass” project insights!).<br><br>⚡ Fun fact  <br>I once built a live-updating soil-moisture monitor that tweets whenever you need to water your plant!  <br>
+### 👋 Hi there, I'm Sanduni Tharushika!
+
+🎓 I'm an undergraduate student with a passion for **UI/UX design** and **frontend development**.  
+💻 I enjoy turning ideas into functional, user-friendly interfaces using:
+
+- 🌐 **HTML**, **CSS**, **React JS**
+- 🎨 **Figma** for UI/UX design
+- 🛠️ **Visual Studio Code** and **GitHub** for development and version control
+
+---
+
+### 🌱 Currently Learning
+- Advanced UI/UX principles  
+- React component design  
+- Responsive web development
+
+---
+
+### 💡 Interests
+- Designing clean and intuitive user experiences  
+- Building frontend web apps  
+- Collaborating on creative tech projects
+
+---
+
+### 🤝 Let's Connect
+Open to internships, collaborations, and learning opportunities in the tech and design space!
+
 
 
 ## 🌐 Socials:
